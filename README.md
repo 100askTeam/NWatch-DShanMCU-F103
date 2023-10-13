@@ -7,7 +7,7 @@
 </p>
 
 
-# 项目说明
+# Introduction
 
 This project is developed based on the [DShanMCU-F103](https://item.taobao.com/item.htm?id=724601559592) development board (stm32f103c8t6), with the intention of providing a comprehensive example learning reference for learning STM32 and HAL libraries.
 
