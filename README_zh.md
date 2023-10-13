@@ -18,9 +18,6 @@ NWatch-DShanMCU-F103与原作者的NWatch不一样的是，将其移植到DShanM
 
 运行效果演示：[https://www.bilibili.com/video/BV1Jw411i7Fz](https://www.bilibili.com/video/BV1Jw411i7Fz)
 
-<iframe src="//player.bilibili.com/player.html?aid=320990385&bvid=BV1Jw411i7Fz&cid=1271201329&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
 # 视频教程
 
 - 本项目运行效果视频演示：[https://www.bilibili.com/video/BV1Jw411i7Fz](https://www.bilibili.com/video/BV1Jw411i7Fz)
